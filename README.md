@@ -10,6 +10,8 @@ The project utilized supervised learning techniques, with classification algorit
 *Dataset*:
 A dataset containing clinical data from individuals with and without Parkinson's disease was utilized for model training and evaluation. This dataset included features such as demographic information, clinical assessments (e.g., Unified Parkinson's Disease Rating Scale scores), and possibly biomarkers derived from medical tests or imaging studies.
 
+data set link: https://drive.google.com/file/d/18HBhlQs2QYmpw9nT2QXkhcw0SWZPbKbM/view?usp=sharing
+
 *Model Training*:
 The dataset was split into training and testing sets, with the training set used to train the machine learning model. Various classification algorithms were trained and evaluated using techniques like cross-validation to ensure robustness and generalization. Hyperparameter tuning was performed to optimize the performance of the selected model.
 
